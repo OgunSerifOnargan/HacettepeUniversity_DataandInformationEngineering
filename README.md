@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VodoVest
+- 👋 Hi, I’m @onarganOgun
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on sharing my learning adventure
